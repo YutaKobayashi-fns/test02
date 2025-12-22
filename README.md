@@ -1,6 +1,6 @@
 # test02
 rebase勉強用  
 
-Yuta Kobayashi  
+小林 祐太(Kobayashi Yuta)  
 1995/01/25  
 Fukushima, Iwaki
