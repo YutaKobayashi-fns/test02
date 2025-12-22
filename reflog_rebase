@@ -1,0 +1,15 @@
+bf31a26 HEAD@{0}: checkout: moving from a90f9b09aefcef827263b7bc62a15ceeebc124a9 to tst-01
+a90f9b0 HEAD@{1}: rebase (pick): 編集:和暦の月日を追加(README.md)
+4131d39 HEAD@{2}: commit: 編集:リベース時のコンクリフトを解消(README.md)
+c41219d HEAD@{3}: rebase (continue): 編集:生年月日に和暦を追加(README.md)
+b460d18 HEAD@{4}: rebase: fast-forward
+33bdd7f HEAD@{5}: rebase (start): checkout HEAD~5
+bf31a26 HEAD@{6}: rebase (start): checkout tst-01
+bf31a26 HEAD@{7}: commit: 編集:和暦の月日を追加(README.md)
+1634366 HEAD@{8}: commit: 編集:出身地に日本語表記を追加(README.md)
+b460d18 HEAD@{9}: commit: 編集:生年月日に和暦を追加(README.md)
+33bdd7f HEAD@{10}: commit: 編集:氏名に漢字を追加(README.md)
+7a51f95 HEAD@{11}: commit: 編集:氏名、生年月日、出身追加(README.md)
+b452384 HEAD@{12}: checkout: moving from main to tst-01
+b452384 HEAD@{13}: commit: 追加:初回コミット(.gitignore)
+9750161 HEAD@{14}: clone: from https://github.com/YutaKobayashi-fns/test02.git
